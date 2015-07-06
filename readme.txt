@@ -4,4 +4,3 @@ this is not a test.it's ture.
 git tracks changes of files.
 creating a new banch is quick and simple.
 git is a free software.
-i am working on dev when a bug...
