@@ -5,4 +5,5 @@ git tracks changes of files.
 creating a new banch is quick and simple.
 git is a free software.
 i am working on dev when a bug.....
-it is local.
+dev local and remote..
+a new local and remote.
